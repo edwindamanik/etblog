@@ -1,0 +1,10 @@
+.recent_container {
+    background-color: red;
+    padding: 0 50px;
+}
+
+.recent_title {
+    font-size: 25px;
+    font-family: var(--font-khusus);
+    font-weight: 100;
+}
